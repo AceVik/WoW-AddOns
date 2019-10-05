@@ -1,0 +1,78 @@
+------------------------------------------------------------------------
+r1509 | Resike | 2019-09-26 00:56:35 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+- Also ignore README.
+------------------------------------------------------------------------
+r1508 | Resike | 2019-09-26 00:51:31 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+- Fix ignores.
+------------------------------------------------------------------------
+r1507 | Resike | 2019-09-26 00:49:22 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+- Fix ignores.
+------------------------------------------------------------------------
+r1506 | Resike | 2019-09-26 00:47:18 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+- Fix ignores.
+------------------------------------------------------------------------
+r1505 | Resike | 2019-09-26 00:40:09 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+
+- Fix externals.
+------------------------------------------------------------------------
+r1504 | Resike | 2019-09-26 00:32:39 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+
+- Fix externals.
+------------------------------------------------------------------------
+r1503 | Resike | 2019-09-26 00:02:46 +0000 (Thu, 26 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/Recount.toc
+
+- Retail TOC switch.
+------------------------------------------------------------------------
+r1502 | Resike | 2019-09-25 23:56:19 +0000 (Wed, 25 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/Recount.lua
+
+- Tagging as a release.
+------------------------------------------------------------------------
+r1500 | Resike | 2019-09-25 23:52:41 +0000 (Wed, 25 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/Recount.toc
+
+- Classic TOC switch.
+------------------------------------------------------------------------
+r1499 | Resike | 2019-09-25 23:49:04 +0000 (Wed, 25 Sep 2019) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+
+- Fix externals.
+------------------------------------------------------------------------
+r1498 | Resike | 2019-09-25 23:47:44 +0000 (Wed, 25 Sep 2019) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+
+- Fix externals.
+------------------------------------------------------------------------
+r1497 | Resike | 2019-09-25 23:30:50 +0000 (Wed, 25 Sep 2019) | 1 line
+Changed paths:
+   M /trunk/Recount.toc
+
+- Retail TOC switch.
+------------------------------------------------------------------------
+
