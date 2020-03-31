@@ -1,1 +1,1 @@
-# WoW-AddOns
+# WARNING: No support any more. (CLOSED)
